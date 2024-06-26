@@ -1,6 +1,6 @@
 class A{
 	void meth(){
-		System.out.println("overide");
+		System.out.println("overide1");
 	}
 }
 
